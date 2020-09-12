@@ -1,1 +1,2 @@
-# C---20-GCSO-H.W.
+# p5.play-boilerplate
+Boiler plate for p5.play
